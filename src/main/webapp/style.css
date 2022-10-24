@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+
+
+
+h1{
+    font-family: 'Open Sans';
+    color: aliceblue;
+    font-size: 30px;
+}
+h2{
+    font-family: 'Open Sans';
+    color: aliceblue;
+    font-size: 30px;
+}
+
+label{
+    font-family: 'Open Sans';
+    color: aliceblue;
+    font-size: 25px;
+}
+
+h4{
+    color: rgb(2, 0, 0);
+    font-family: 'Open Sans';
+    font-size: 30px;
+}
+h3{
+    font-family: 'Open Sans';
+}
+
+h5{
+    font-family: 'Open Sans';
+}
